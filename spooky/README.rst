@@ -25,3 +25,5 @@ To use this package, just add the command line:
 
 pip install spooky
 python spooky.py
+
+-a            command-line option "a"
