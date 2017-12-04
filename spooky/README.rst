@@ -10,24 +10,7 @@ Implemented: just a tfidf with a Linear Regression. simple but efficient!
 This repository is a minimal example of how to share packaged code for collaborative reuse.
 
 structure of the directory:
-.
-├── MANIFEST.in
-├── README.rst
-├── setup.py
-└── spooky
-    ├── __init__.py
-    ├── config.ini
-    ├── data
-    │   ├── test.zip
-    │   └── train.zip
-    ├── loader.py
-    ├── output
-    │   └── simple_submission.csv
-    ├── preprocess.py
-    ├── spooky.py
-    └── trainer.py
 
-3 directories, 12 files
 
 
 *************************
