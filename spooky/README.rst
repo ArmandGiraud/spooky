@@ -29,15 +29,17 @@ Collaborative guidelines:
 
 
 To use this package, just add the command line:
-::
+```
 pip install /path/to/spooky
 
-::
 python spooky.py
+```
 
--max_features           command-line option "max_features"
+
+-max_features           command-line option "max_features"
 
 Run tests with:
 
-::
+```
 python setup.py test
+```
