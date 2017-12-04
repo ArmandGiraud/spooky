@@ -40,6 +40,6 @@ python spooky.py
 
 Run tests with:
 
-```
+`
 python setup.py test
-```
+`
