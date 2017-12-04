@@ -36,4 +36,6 @@ python spooky.py
 
 -max_features           command-line option "max_features"
 
+Run tests with:
 
+python setup.py test
