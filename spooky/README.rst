@@ -24,6 +24,7 @@ Collaborative guidelines:
 To use this package, just add the command line:
 
 pip install /path/to/spooky
+
 python spooky.py
 
--a            command-line option "a"
+-max_features           command-line option "max_features"
