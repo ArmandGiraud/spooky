@@ -12,6 +12,7 @@ This repository is a minimal example of how to share packaged code for collabora
 structure of the directory:
 
 ::
+
 .
 ├── MANIFEST.in
 ├── README.rst
